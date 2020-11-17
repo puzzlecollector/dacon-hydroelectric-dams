@@ -4,4 +4,4 @@ Cloud (reflectivity) image data observed by weather radar is used to predict fut
 
 # Models of interest
 
-Neural networks, specifically UNet, ResNet and CNN-LSTM 
+Neural networks, specifically UNet, ResNet, CNN-LSTM, ConvLSTM2D
